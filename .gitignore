@@ -1,0 +1,7 @@
+__pycache__
+tempCodeRunnerFile.py
+cifar-10-batches-py
+*.tar.gz
+cifar10
+data
+runs
